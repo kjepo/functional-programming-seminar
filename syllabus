@@ -1,0 +1,19 @@
+FUNCTIONAL PROGRAMMING AND TYPE SYSTEMS			  Spring Quarter '90
+
+			  TENTATIVE SYLLABUS
+
+READING MATERIAL
+
+[1] G.E.Revesz, Lambda-calculus, combinators, and functional programming
+[2] Turner, A new implementation technique for applicative languages
+[3] Cardelli, Basic polymorphic typechecking
+[4] Cardelli&Wegner, On understanding types, data abstraction and polymorphism
+[5] Hudak, Survey on Functional Programming.
+
+SCHEDULE
+
+1. Lambda calculus (Chapter 2 in [1]).
+2. Combinatorial logic (Chapter 3 in [1]).
+3. Functional Programming: Motivation and background ([5])
+3. Implementation of lazy functional languages: Graph reduction ([2]).
+4. Type checking ([3] and [4]).
